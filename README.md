@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in ActionScript 3.0 related to handling null or undefined values passed as string parameters to a function. The bug showcases unexpected behavior and a potential solution using type checking and default values.  The `bug.as` file contains the problematic code, while `bugSolution.as` offers a corrected version.
